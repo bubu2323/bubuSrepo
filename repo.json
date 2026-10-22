@@ -1,0 +1,8 @@
+{
+  "name": "bubuSrepo",
+  "description": "[fork from doGior's repo] Italian repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/bubu2323/bubuSrepo/builds/plugins.json"
+  ]
+}
